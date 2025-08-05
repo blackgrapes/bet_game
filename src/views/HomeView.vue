@@ -26,18 +26,7 @@ export default {
             make these games as satisfying as possible and let people have fun
             without losing money.
           </p>
-          <p class="mt-3">
-            Creator:
-            <a class="text-accent" href="https://github.com/LucasHazardous"
-              >LucasHazardous</a
-            >
-          </p>
-          <p>
-            Design:
-            <a class="text-accent" href="https://github.com/matt-pasek"
-              >matt-pasek</a
-            >
-          </p>
+
         </div>
       </div>
     </div>

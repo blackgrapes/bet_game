@@ -9,8 +9,8 @@ export default {
     class="fixed sm:px-20 py-5 bg-neutral bg-opacity-50 backdrop-blur-xl sm:bg-opacity-0 sm:backdrop-blur-0 w-screen flex flex-col sm:flex-row items-center justify-between z-40"
   >
     <div id="menu" class="flex items-center justify-between sm:w-1/4">
-      <a class="font-semibold text-2xl" href="/OpenSourceCasino/"
-        >Open Source Casino</a
+      <a class="font-semibold text-2xl" href="#"
+        >win casino </a
       >
     </div>
     <div
